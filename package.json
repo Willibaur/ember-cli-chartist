@@ -32,7 +32,7 @@
   "dependencies": {
     "broccoli-funnel": "^1.1.0",
     "broccoli-merge-trees": "^1.2.1",
-    "chartist": "^0.10.1",
+    "chartist": "https://github.com/Willibaur/chartist-js#yarn-migration",
     "ember-cli-babel": "^6.3.0",
     "ember-cli-htmlbars": "^2.0.1"
   },
